@@ -1,3 +1,3 @@
-# Supercell.github.io
+# chenuanc.github.io
 
 My Personal Blog via GitHub
