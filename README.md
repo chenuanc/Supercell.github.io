@@ -1,3 +1,3 @@
-# pianfan.github.io
+# Supercell.github.io
 
 My Personal Blog via GitHub
